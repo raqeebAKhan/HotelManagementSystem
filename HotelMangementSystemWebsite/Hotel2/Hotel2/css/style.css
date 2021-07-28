@@ -1,0 +1,486 @@
+@media (max-width: 2000px) and (min-width: 1500px) {
+
+#full{
+	width: 100%;
+	height: auto;
+}
+
+#btn{
+	display: none;
+}
+
+#header{
+	background: rgba(65, 179, 163, 0.8);
+	width: 100%;
+	height: 100px;
+	position: fixed;
+}
+
+#logo {
+	width: 30%;
+	height: 100px;
+	float: left;
+}
+
+#nav{
+	width: 70%;
+	height: 100px;
+	float: left;
+}
+
+#nav ul li:hover{
+	background: #6495ED;
+	border-radius: 3px;
+}
+
+ul li{
+	list-style: none;
+	float: left;
+	width: 14%;
+	height:50px;
+	line-height: 50px;
+	text-align: center;
+}
+
+h1 {
+	padding: 10px;
+}
+
+a {
+	text-decoration: none;
+}
+
+#banner{
+	width: 100%;
+	height: 600px; 
+}
+
+#f1{
+	width: 100%;
+	height: 150px;
+	background: #a2b9b6;
+}
+
+#welcome{
+	width: 100%;
+	height: auto;
+	background: #41B3A3;
+
+}
+
+#g1{
+	width: 100%;
+	height: 500px;
+	background: #fff;
+}
+
+#one{
+	width: 33%;
+	height: auto;
+	float: left;
+}
+
+#two{
+	width: 33%;
+	height: auto;
+	float: left;
+}
+
+#three{
+	width: 33%;
+	height: auto;
+	float: left;
+}
+}	
+
+@media (max-width: 1500px) and (min-width: 1000px) {
+
+#full{
+	width: 100%;
+	height: auto;
+
+}
+
+#btn{
+	display: none;
+}
+
+#header{
+	background: rgba(65, 179, 163, 0.8);
+	width: 100%;
+	height: 100px;
+	position: fixed;
+}
+
+#logo {
+	width: 30%;
+	height: 100px;
+	float: left;
+}
+
+#nav{
+	width: 70%;
+	height: 100px;
+	float: left;
+}
+
+#nav ul li:hover{
+	background: #6495ED;
+	border-radius: 3px;
+}
+
+ul li{
+	list-style: none;
+	float: left;
+	width: 14%;
+	height:50px;
+	line-height: 50px;
+	text-align: center;
+}
+
+h1 {
+	padding: 10px;
+}
+
+a {
+	text-decoration: none;
+}
+
+#banner{
+	width: 100%;
+	height: 600px; 
+}
+
+#f1{
+	width: 100%;
+	height: 150px;
+	background: #a2b9b6;
+}
+
+#welcome{
+	width: 100%;
+	height: auto;
+	background: #41B3A3;
+
+}
+
+#g1{
+	width: 100%;
+	height: 500px;
+	background: #fff;
+}
+
+#one{
+	width: 33%;
+	height: auto;
+	float: left;
+}
+
+#two{
+	width: 33%;
+	height: auto;
+	float: left;
+}
+
+#three{
+	width: 33%;
+	height: auto;
+	float: left;
+}
+}	
+
+@media (max-width: 1000px) and (min-width: 700px) {
+#full{
+	width: 100%;
+	height: auto;
+}
+
+#btn{
+	display: none;
+}
+
+#header{
+	background: rgba(65, 179, 163, 0.8);
+	width: 100%;
+	height: auto;
+	position: fixed;
+}
+
+#logo {
+	width: 100%;
+	height: 100px;
+}
+
+#nav{
+	width: 100%;
+	height: 100px;
+}
+
+#nav ul li:hover{
+	background: #6495ED;
+	border-radius: 3px;
+}
+
+ul li{
+	list-style: none;
+	float: left;
+	width: 14%;
+	height:50px;
+	line-height: 50px;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+h1 {
+	padding: 10px;
+}
+
+#banner{
+	width: 100%;
+	height: 600px; 
+}
+
+#f1{
+	width: 100%;
+	height: 150px;
+	background: #a2b9b6;
+}
+
+#welcome{
+	width: 100%;
+	height: auto;
+	background: #41B3A3;
+
+}
+
+#g1{
+	width: 100%;
+	height: 500px;
+	background: #fff;
+}
+
+#one{
+	width: 33%;
+	height: auto;
+	float: left;
+}
+
+#two{
+	width: 33%;
+	height: auto;
+	float: left;
+}
+
+#three{
+	width: 33%;
+	height: auto;
+	float: left;
+}
+}
+
+
+@media (max-width: 700px) and (min-width: 500px) {
+	#full{
+	width: 100%;
+	height: auto;
+
+}
+
+#btn{
+	display: none;
+}
+
+#header{
+	background: rgba(65, 179, 163, 0.8);
+	width: 100%;
+	height: auto;
+	position: fixed;
+}
+
+#logo {
+	width: 100%;
+	height: 100px;
+}
+
+#nav{
+	width: 100%;
+	height: 100px;
+}
+
+#nav ul li:hover{
+	background: #6495ED;
+	border-radius: 3px;
+}
+
+ul li{
+	list-style: none;
+	float: left;
+	width: 14%;
+	height:50px;
+	line-height: 50px;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+h1 {
+	padding: 10px;
+}
+
+#banner{
+	width: 100%;
+	height: 600px; 
+}
+
+#f1{
+	width: 100%;
+	height: 150px;
+	background: #a2b9b6;
+}
+
+#welcome {
+	width: 100%;
+	height: auto;
+	background: #41B3A3;
+
+}
+
+#g1{
+	width: 100%;
+	height: auto;
+	background: #fff;
+}
+
+#one{
+	width: 100%;
+	height: auto;
+}
+
+#two{
+	width: 100%;
+	height: auto;
+}
+
+#three{
+	width: 100%;
+	height: auto;
+}
+}
+
+@media (max-width: 500px) and (min-width: 50px) {
+	#full{
+	width: 100%;
+	height: auto;
+}
+
+#header{
+	background: rgba(65, 179, 163, 0.8);
+	width: 100%;
+	height: auto;
+	position: fixed;
+}
+
+#logo {
+	width: 100%;
+	height: 100px;
+}
+
+#nav{
+	width: 100%;
+	height: auto;
+}
+
+#nav ul li:hover{
+	background: #6495ED;
+	border-radius: 3px;
+}
+
+ul li{
+	list-style: none;
+	width: 100%;
+	height:50px;
+	line-height: 50px;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+h1 {
+	padding: 10px;
+}
+
+#banner{
+	width: 100%;
+	height: 600px; 
+}
+
+#f1{
+	width: 100%;
+	height: 150px;
+	background: #a2b9b6;
+}
+
+#welcome {
+	width: 100%;
+	height: auto;
+	background: #41B3A3;
+
+}
+
+#g1{
+	width: 100%;
+	height: auto;
+	background: #fff;
+}
+
+#one{
+	width: 100%;
+	height: auto;
+}
+
+#two{
+	width: 100%;
+	height: auto;
+}
+
+#three{
+	width: 100%;
+	height: auto;
+}
+}	
+
+
+/*registration.php*/
+
+#regBg{
+	width: 100%;
+	height: 800px;
+	background-repeat: no-repeat;
+}
+
+#form{
+	width: 50%;
+	padding-top: 100px;
+	padding-left: 60px;
+	height: auto;
+}
+
+
+td {
+	width: 300px;
+	height: 50px;
+}
+
+#stay {
+	background-repeat: no-repeat;
+	width: 100%;
+}
+
+/*contactusphp*/
